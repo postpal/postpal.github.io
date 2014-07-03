@@ -23,7 +23,7 @@
 			fontColor: '#FFFFFF',
 			fontSize: '13px',
 			backgroundColor: '#000000',
-			backgroundOpacity: '100',
+			backgroundOpacity: '99',
 			linkColor: '#CA0000'
 		}, options);
 		
