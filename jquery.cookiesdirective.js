@@ -10,7 +10,7 @@
 		// Default Cookies Directive Settings
 		var settings = $.extend({
 			//Options
-			explicitConsent: true,
+			explicitConsent: false,
 			position: 'top',
 			duration: 20,
 			limit: 0,
