@@ -1,4 +1,4 @@
-/* Cookies Directive - The rewrite. Now a jQuery plugin
+/* Cookies Directive - The rewrite. Now a jQuery plugin//head.ready("jquery", function() {
  * Version: 2.0.1
  * Author: Ollie Phillips
  * 24 October 2013
@@ -176,7 +176,7 @@
 		html += '-ms-filter: “alpha(opacity=' + settings.backgroundOpacity + ')”; filter: alpha(opacity=' + settings.backgroundOpacity + ');';
 		html += '-khtml-opacity: .' + settings.backgroundOpacity + '; -moz-opacity: .' + settings.backgroundOpacity + ';';
 		html += 'color:' + settings.fontColor + ';font-family:' + settings.fontFamily + ';font-size:' + settings.fontSize + ';';
-		html += 'text-align:center;z-index:1000;">';
+		html += 'text-align:center;z-index:99000;">';
 		html += '<div style="position:relative;height:auto;width:90%;padding:10px;margin-left:auto;margin-right:auto;">';
 			
 		if(!settings.message) {
