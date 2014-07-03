@@ -12,7 +12,7 @@
 			//Options
 			explicitConsent: true,
 			position: 'top',
-			duration: 10,
+			duration: 20,
 			limit: 0,
 			message: null,				
 			cookieScripts: null,
