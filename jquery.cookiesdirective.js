@@ -186,7 +186,7 @@
 				settings.message += 'use are essential for parts of the site to operate and have already been set.';
 			} else {
 				// Implied consent message
-				settings.message = 'We have placed cookies on your computer to help make this website better.';
+				settings.message = 'This site uses cookies. By continuing to use the site you agree with their use.';
 			}		
 		}	
 		html += settings.message;
